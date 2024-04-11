@@ -1,0 +1,7 @@
+noMatch.json
+replaced.json
+CMS_Documentation.pdf
+.test-files
+.test-files/*
+*.pdf
+*.html
